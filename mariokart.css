@@ -1,0 +1,60 @@
+header {
+
+	text-align: center;
+
+	font-family: impact;
+
+	font-size: 40px;
+
+	
+
+}
+
+ 
+
+body {
+
+	background-color: grey;
+
+}
+
+ 
+
+.drivers {
+
+	font-family: impact;
+
+	text-align: center;
+
+	width: 200px;
+
+	height: 200px;
+
+	display: inline-block;
+
+	margin: auto;
+
+}
+
+ 
+
+.picture {
+
+	width: 150px;
+
+	height: 125px;
+
+}
+
+ 
+
+div {
+
+	width: 1025px;
+
+	margin-right: auto;
+
+	margin-left: auto;
+
+}
+
